@@ -1,8 +1,7 @@
 # react-webpack-build
 react-webpack-build
 
-
-
-todo
-fix app page
 # class-react
+git clone https://github.com/schirmerp/class-react.git
+&&
+npm start
