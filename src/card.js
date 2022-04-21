@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css"
+import './app.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { brands } from "@fortawesome/fontawesome-svg-core/import.macro";
@@ -10,7 +10,7 @@ export default function Card(props){
     return(
         
                 <div className="card">
-                    <div className="profile-card">
+                    <div style={{background : "2px solid black"}} id='rofile-card'>
                         <div className="card-header">
                             <div className="pic-div">
                                 <img className="pic" src={props.pic} alt="pic"></img>
