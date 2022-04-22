@@ -1,4 +1,4 @@
-import ana from '../images/ana.png'
+
 export const data = [
     {
     "Name" : "Waqar Ali",  
@@ -21,7 +21,7 @@ export const data = [
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/ilrbusch/"
         }
     },
     {
@@ -40,12 +40,12 @@ export const data = [
     "Name" : "Ananya Das",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : {ana},
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ana.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/ananya-das123/"
         }
     },
     {
@@ -64,96 +64,84 @@ export const data = [
     "Name" : "Merajul Haque",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/merajul.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/merajul-haque-7b471b98/"
         }
     },
     {
     "Name" : "Samiul Haque",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/sam.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
-        }
-    },
-    {
-    "Name" : "Gary Jerome",
-    "Section" : "2022-04-RTT",
-    "Role" : "Student",
-    "pic" : "pic",
-    "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/samiul-haque-5b2825234/"
         }
     },
     {
     "Name" : "Bolutiwi Kilanko",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/bolu.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/bolutiwi-k-926972122/"
         }
     },
     {
     "Name" : "Ramita Kumpakha",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ramita.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/ramitakumpakha/"
         }
     },
     {
     "Name" : "Jacques Mucyo Magarambe",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/jacq.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/jacques-mucyo-magarambe/"
         }
     },
     {
     "Name" : "Major McNeil III",   
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/major.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/major-mcneil-iii/"
         }
     },
     {
     "Name" : "Shawn Meighn",   
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/shawn.png",
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/shawn-meighn-36990919/"
         }
     },
     {
@@ -189,7 +177,7 @@ export const data = [
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/jimmysaleem/"
         }
     },
     {
@@ -213,7 +201,7 @@ export const data = [
         "facebook" : "facebook",
         "twitter" : "twitter",
         "github" : "github",
-        "youtube" : "youtube"
+        "youtube" : "https://www.linkedin.com/in/anusha-vemuri/"
         }
     },
     {
