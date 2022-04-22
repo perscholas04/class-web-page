@@ -38,6 +38,10 @@ export default function App() {
                 twitter={data.link.twitter}
                 github={data.link.github}
                 youtube={data.link.youtube}
+                cnt={data.link.twitter ? "no" : "yes"}
+                cnf={data.link.facebook ? "no" : "yes"}
+                cny={data.link.youtube ? "no" : "yes"}
+                cng={data.link.github ? "no" : "yes"}
                 //card={'card'}
                 //profileCard={'profile-card'}
                 //cardHeader={'card-header'}

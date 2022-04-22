@@ -6,21 +6,21 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" : {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     },
     {
     "Name" : "Isabella Busch",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/isabella.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/ilrbusch/"
         }
     },
@@ -30,10 +30,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     },
     {
@@ -42,9 +42,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ana.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/ananya-das123/"
         }
     },
@@ -54,10 +54,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     },
     {
@@ -66,9 +66,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/merajul.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/merajul-haque-7b471b98/"
         }
     },
@@ -78,9 +78,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/sam.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/samiul-haque-5b2825234/"
         }
     },
@@ -90,9 +90,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/bolu.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/bolutiwi-k-926972122/"
         }
     },
@@ -102,9 +102,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ramita.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/ramitakumpakha/"
         }
     },
@@ -114,9 +114,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/jacq.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/jacques-mucyo-magarambe/"
         }
     },
@@ -126,9 +126,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/major.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/major-mcneil-iii/"
         }
     },
@@ -138,9 +138,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/shawn.png",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/shawn-meighn-36990919/"
         }
     },
@@ -150,10 +150,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     },
     {
@@ -162,10 +162,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     },
     {
@@ -174,9 +174,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/jimmysaleem/"
         }
     },
@@ -184,10 +184,10 @@ export const data = [
     "Name" : "Patrick Schirmer",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/schirmerp/class-site/main/patrick.jpeg",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/patrick.png",
     "link" :  {
         "facebook" : "https://www.facebook.com/patrick.schirmer.710/",
-        "twitter" : "twitter",
+        "twitter" : "https://twitter.com/Jo3cod3",
         "github" : "https://github.com/schirmerp?tab=repositories",
         "youtube" : "https://www.linkedin.com/in/patrick-schirmer-profile/"
         }
@@ -198,9 +198,9 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
         "youtube" : "https://www.linkedin.com/in/anusha-vemuri/"
         }
     },
@@ -210,10 +210,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "pic",
     "link" :  {
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
+        "facebook" : "",
+        "twitter" : "",
+        "github" : "",
+        "youtube" : ""
         }
     }
  ]

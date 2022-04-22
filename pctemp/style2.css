@@ -124,3 +124,10 @@ li:hover a {
     flex-direction: column;
     align-items: center;
 }
+.yes{
+    display: none !important;
+    
+}
+.yes > *{
+    display: none !important;
+}
