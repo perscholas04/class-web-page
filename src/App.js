@@ -8,6 +8,7 @@ import './app.css'
 import { data } from './class.js';
 import TypeW from './typeW'
 import pLogo from './perscholas.jpeg'
+import Pc from './pc.js';
 
 Amplify.configure(Auth);
 console.log(pLogo)
@@ -21,10 +22,10 @@ export default function App() {
           <img src={pLogo} alt="perScholas pic"/>
           <TypeW/>
           <h1>Hello {user.attributes.email}</h1>
-          <button onClick={signOut}>Sign out{console.log(user)}</button>
+          <button className="sgbut" onClick={signOut}>Sign out{console.log(user)}</button>
           {data.map((data,key)=>{
             return(
-                <Card
+                <Pc
                 className="fcard"
                 key={key}
                 Name={data.Name}
@@ -43,6 +44,7 @@ export default function App() {
                 //sm={'sm'}
                 />)
             })}
+            
         </main>
         
         </>

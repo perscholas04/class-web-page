@@ -1,3 +1,4 @@
+import ana from '../images/ana.png'
 export const data = [
     {
     "Name" : "Waqar Ali",  
@@ -39,7 +40,7 @@ export const data = [
     "Name" : "Ananya Das",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : {ana},
     "link" :  {
         "facebook" : "facebook",
         "twitter" : "twitter",
