@@ -7,7 +7,7 @@ return(
     <TypeWriterEffect
         textStyle={{
           fontFamily: 'Red Hat Display',
-          color: '#3F3D56',
+          color: '#fcfc09',
           fontWeight: 500,
           fontSize: '1.5em',
         }}

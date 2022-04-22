@@ -19,10 +19,13 @@ export default function App() {
       {({ signOut, user }) => (
           <>
         <main>
+          <div className='header'>
           <img src={pLogo} alt="perScholas pic"/>
           <TypeW/>
           <h1>Hello {user.attributes.email}</h1>
           <button className="sgbut" onClick={signOut}>Sign out{console.log(user)}</button>
+          </div>
+          <div className='card-box'>
           {data.map((data,key)=>{
             return(
                 <Pc
@@ -44,7 +47,7 @@ export default function App() {
                 //sm={'sm'}
                 />)
             })}
-            
+            </div>
         </main>
         
         </>

@@ -11,15 +11,6 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
-.card{
-    position: relative;
-    width: 350px;
-    height: 450px;
-    border-radius: 15px;
-    overflow: hidden;
-    cursor: pointer;
-    transition: .5s;
-}
 .card-image{
     position: absolute;
     top: 0;
@@ -113,4 +104,23 @@ li:hover a {
 .sgbut{
     height: 5vh;
     width: 10vh;
+}
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card{
+    position: relative;
+    width: 70px !important;
+    height: 450px !important;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: .5s;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
