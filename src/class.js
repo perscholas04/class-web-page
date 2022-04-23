@@ -28,7 +28,7 @@ export const data = [
     "Name" : "Adedayo Daramola",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://cdn.shopify.com/s/files/1/0315/9562/6555/products/product-image-994120667_1024x1024.jpg?v=1581810492",
     "link" :  {
         "facebook" : "",
         "twitter" : "",

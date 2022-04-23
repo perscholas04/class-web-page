@@ -93,10 +93,10 @@ body{
     visibility: visible;
 }
 
-.card:hover.card-image {
+/* .card:hover.card-image {
     transform: translateY(-120px);
     transition: .5s;
-}
+} */
 li:hover a {
     background-color: blue;
     transition-delay: 0 !important;
@@ -109,6 +109,12 @@ li:hover a {
     display: flex;
     flex-wrap: wrap;
     
+}
+.details{
+    z-index: 5;
+}
+.card:hover .details{
+    opacity: .4;
 }
 .card{
     position: relative;
