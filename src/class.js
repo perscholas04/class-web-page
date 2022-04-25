@@ -153,7 +153,7 @@ export const data = [
         "facebook" : "",
         "twitter" : "",
         "github" : "",
-        "youtube" : ""
+        "youtube" : "https://www.linkedin.com/in/mercy-ngwe-789b80215/"
         }
     },
     {

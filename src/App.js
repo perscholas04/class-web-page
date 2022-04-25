@@ -60,6 +60,7 @@ export default function App() {
     </Authenticator>
   );
 }
+// "deploy": "gh-pages -d dist",
 
 
 
