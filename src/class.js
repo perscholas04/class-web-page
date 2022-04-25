@@ -148,7 +148,7 @@ export const data = [
     "Name" : "Mercy Ngwe",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/mercy.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",

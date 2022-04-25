@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve --config ./webpack.config.js --mode development",
     "test": "echo \"No test specified\" && exit 0",
-    "deploy" : "aws s3 sync build . s3://class-perscholas --acl public-read",
+    "deploy": "gh-pages -d dist",
     "build": "webpack"
     
   },
