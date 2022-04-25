@@ -61,7 +61,7 @@ export default function App() {
   );
 }
 // "deploy": "gh-pages -d dist",
-
+// "deploy" : "aws s3 sync build . s3://class-perscholas --acl public-read",
 
 
 

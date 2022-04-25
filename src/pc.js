@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { brands } from "@fortawesome/fontawesome-svg-core/import.macro";
 import { library } from "@fortawesome/fontawesome-svg-core";
-import '../pctemp/style2.css'
+import './style2.css'
 library.add(fab);
 
 
