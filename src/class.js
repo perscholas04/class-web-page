@@ -52,7 +52,7 @@ export const data = [
     "Name" : "Tyreek Drumgo",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/tyreek.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
@@ -160,7 +160,7 @@ export const data = [
     "Name" : "Alfred Nyamusa",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/alfred.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
