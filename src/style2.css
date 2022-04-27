@@ -101,10 +101,7 @@ li:hover a {
     background-color: blue;
     transition-delay: 0 !important;
 }
-.sgbut{
-    height: 5vh;
-    width: 10vh;
-}
+
 .card-box{
     display: flex;
     flex-wrap: wrap;
@@ -129,6 +126,8 @@ li:hover a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-radius: 0 0 60% 60%;
+    background: linear-gradient(#0be9c4 -10%, #4284df 75%);
 }
 .yes{
     display: none !important;

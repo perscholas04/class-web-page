@@ -6,9 +6,9 @@ export default function TypeW(){
 return(
     <TypeWriterEffect
         textStyle={{
-          fontFamily: 'Red Hat Display',
-          color: '#fcfc09',
-          fontWeight: 500,
+          fontFamily: 'poppins',
+          color: '#2149d7',
+          fontWeight: 700,
           fontSize: '1.5em',
         }}
         startDelay={2000}

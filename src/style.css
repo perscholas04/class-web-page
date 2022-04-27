@@ -137,3 +137,16 @@ body{
     height: 30px;
     background: #bbb;
 }
+.header{
+   margin-left: -40vh;
+   margin-right: -40vh;
+    
+}
+.sgbut{
+    height: 5vh;
+    width: 10vh;
+    
+    position: fixed;
+    top: 0;
+    right: 5vh;
+}
