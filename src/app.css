@@ -1,5 +1,8 @@
 body{
-    background-color: aqua;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .card{
     flex: 0 0 30%;
@@ -133,4 +136,18 @@ body{
     width: 1px;
     height: 30px;
     background: #bbb;
+}
+.header{
+    margin-left: -40vh;
+    margin-right: -40vh;
+     
+ }
+
+.sgbut{
+    height: 5vh;
+    width: 10vh;
+    
+    position: fixed;
+    top: 0;
+    right: 5vh;
 }

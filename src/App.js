@@ -2,8 +2,6 @@ import { Amplify } from 'aws-amplify';
 import React from 'react';
 import  * as Auth  from './awsconfig.js'
 import { Authenticator } from '@aws-amplify/ui-react';
-import Card from './card.js'
-import './style.css'
 import './app.css'
 import { data } from './class.js';
 import TypeW from './typeW'
