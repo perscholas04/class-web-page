@@ -4,7 +4,7 @@ export const data = [
     "Name" : "Waqar Ali",  
     "Section" : "2022-04-RTT", 
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://c8.alamy.com/comp/BHNE2X/anonymous-businessman-holding-a-question-mark-in-front-of-his-face-BHNE2X.jpg",
     "link" : {
         "facebook" : "",
         "twitter" : "",
@@ -57,7 +57,7 @@ export const data = [
         "facebook" : "",
         "twitter" : "",
         "github" : "",
-        "youtube" : ""
+        "youtube" : "https://www.linkedin.com/in/tyreek-drumgo/"
         }
     },
     {
@@ -165,7 +165,7 @@ export const data = [
         "facebook" : "",
         "twitter" : "",
         "github" : "",
-        "youtube" : ""
+        "youtube" : "https://www.linkedin.com/in/alfred-nyamusa/"
         }
     },
     {
@@ -213,7 +213,7 @@ export const data = [
         "facebook" : "",
         "twitter" : "",
         "github" : "",
-        "youtube" : ""
+        "youtube" : "https://www.linkedin.com/in/dennis-worthington-830ab0233/"
         }
     }
  ]
