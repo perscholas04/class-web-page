@@ -15,22 +15,22 @@ return(
     </div>
     <ul className="social-icons">
         <li>
-            <a href={props.facebook} className={props.cnf}><FontAwesomeIcon icon="fa-brands fa-facebook-f" /></a>
+            <a href={props.facebook} target="_blank" className={props.cnf}><FontAwesomeIcon icon="fa-brands fa-facebook-f" /></a>
             <i className='bx bxl-facebook'></i>
             
         </li>
         <li>
-            <a href={props.twitter} className={props.cnt}><FontAwesomeIcon icon="fa-brands fa-twitter-square" /></a>
+            <a href={props.twitter} target="_blank" className={props.cnt}><FontAwesomeIcon icon="fa-brands fa-twitter-square" /></a>
             <i className='bx bxl-twitter' ></i>
         
         </li>
         <li>
-            <a href={props.youtube} className={props.cny}><FontAwesomeIcon icon="fa-brands fa-linkedin" /></a>
+            <a href={props.youtube} target="_blank" className={props.cny}><FontAwesomeIcon icon="fa-brands fa-linkedin" /></a>
             <i className='bx bxl-linkedin-square' ></i>
         
         </li>
         <li>
-            <a href={props.github} className={props.cng}><FontAwesomeIcon icon="fa-brands fa-github" /></a>
+            <a href={props.github} target="_blank" className={props.cng}><FontAwesomeIcon icon="fa-brands fa-github" /></a>
             <i className='bx bxl-github' ></i>
         
         </li>
