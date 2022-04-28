@@ -42,7 +42,7 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ana.png",
     "link" :  {
-        "facebook" : "",
+        "facebook" : "https://www.facebook.com/ananya.das.560/", 
         "twitter" : "",
         "github" : "",
         "youtube" : "https://www.linkedin.com/in/ananya-das123/"
