@@ -28,7 +28,7 @@ export const data = [
     "Name" : "Ananya Das",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://github.com/perscholas04/class-web-page/blob/main/src/image/ana1.png",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/ana1.png",
     "link" :  {
         "facebook" : "https://www.facebook.com/ananya.das.560/", 
         "twitter" : "",
