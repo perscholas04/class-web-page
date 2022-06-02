@@ -195,7 +195,7 @@ export const data = [
     {
         "Name" : "Jose Santos",
         "Section" : "2022-04-RTT",
-        "Role" : "Student",
+        "Role" : "Instructor",
         "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/jose.png",
         "link" :  {
             "facebook" : "",
