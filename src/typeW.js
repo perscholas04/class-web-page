@@ -22,7 +22,7 @@ return(
           
         ]}
         multiTextDelay={1000}
-        typeSpeed={70}
+        typeSpeed={100}
       />
       
 )
