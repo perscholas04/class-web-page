@@ -23,6 +23,7 @@ return(
         ]}
         multiTextDelay={1000}
         typeSpeed={100}
+        loop={true}
       />
       
 )
