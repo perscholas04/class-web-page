@@ -1,27 +1,21 @@
-import { Amplify } from 'aws-amplify';
 import React from 'react';
-import  * as Auth  from './awsconfig.js'
-import { Authenticator } from '@aws-amplify/ui-react';
 import './app.css'
 import { data } from './class.js';
 import TypeW from './typeW'
 import pLogo from './perscholas.jpeg'
 import Pc from './pc.js';
+import logo from './AWS.jpeg'
 
-Amplify.configure(Auth);
 console.log(pLogo)
 export default function App() {
     
   return (
-    <Authenticator>
-      {({ signOut, user }) => (
+
           <>
         <main>
           <div className='header'>
-          <img src={pLogo} alt="perScholas pic"/>
+          <img src={logo} alt="perScholas pic"/>
           <TypeW/>
-          <h1>Hello {user.attributes.email}</h1>
-          <button className="sgbut" onClick={signOut}>Sign out{console.log(user)}</button>
           </div>
           <div className='card-box'>
           {data.map((data,key)=>{
@@ -53,9 +47,7 @@ export default function App() {
         </main>
         
         </>
-      )}
       
-    </Authenticator>
   );
 }
 // "deploy": "gh-pages -d dist",

@@ -1,18 +1,6 @@
 
 export const data = [
     {
-    "Name" : "Waqar Ali",  
-    "Section" : "2022-04-RTT", 
-    "Role" : "Student",
-    "pic" : "https://c8.alamy.com/comp/BHNE2X/anonymous-businessman-holding-a-question-mark-in-front-of-his-face-BHNE2X.jpg",
-    "link" : {
-        "facebook" : "",
-        "twitter" : "",
-        "github" : "",
-        "youtube" : ""
-        }
-    },
-    {
     "Name" : "Isabella Busch",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
@@ -40,7 +28,7 @@ export const data = [
     "Name" : "Ananya Das",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/ana.png",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/ana1.png",
     "link" :  {
         "facebook" : "https://www.facebook.com/ananya.das.560/", 
         "twitter" : "",
@@ -82,18 +70,6 @@ export const data = [
         "twitter" : "",
         "github" : "",
         "youtube" : "https://www.linkedin.com/in/samiul-haque-5b2825234/"
-        }
-    },
-    {
-    "Name" : "Bolutiwi Kilanko",
-    "Section" : "2022-04-RTT",
-    "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/schirmerp/class-react/main/images/bolu.png",
-    "link" :  {
-        "facebook" : "",
-        "twitter" : "",
-        "github" : "",
-        "youtube" : "https://www.linkedin.com/in/bolutiwi-k-926972122/"
         }
     },
     {
@@ -172,7 +148,7 @@ export const data = [
     "Name" : "Jamshaid Saleem",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/jimmy.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
@@ -196,7 +172,7 @@ export const data = [
     "Name" : "Anusha Vemuri",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
@@ -205,16 +181,28 @@ export const data = [
         }
     },
     {
-    "Name" : "Dennis Worthington",
-    "Section" : "2022-04-RTT",
-    "Role" : "Student",
-    "pic" : "pic",
-    "link" :  {
-        "facebook" : "",
-        "twitter" : "",
-        "github" : "",
-        "youtube" : "https://www.linkedin.com/in/dennis-worthington-830ab0233/"
-        }
+        "Name" : "Kayla Mejire",
+        "Section" : "2022-04-RTT",
+        "Role" : "Instructor",
+        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
+        "link" :  {
+            "facebook" : "",
+            "twitter" : "",
+            "github" : "",
+            "youtube" : "https://www.linkedin.com/in/kaylamejire/"
+            }
+    },
+    {
+        "Name" : "Jose Santos",
+        "Section" : "2022-04-RTT",
+        "Role" : "Student",
+        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
+        "link" :  {
+            "facebook" : "",
+            "twitter" : "",
+            "github" : "",
+            "youtube" : "https://www.linkedin.com/in/itjosesantos/"
+            }
     }
  ]
  
