@@ -18,10 +18,10 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/dayo.jpeg",
     "link" :  {
-        "facebook" : "https://www.linkedin.com/in/adedayodaramola/",
+        "facebook" : "",
         "twitter" : "",
         "github" : "",
-        "youtube" : ""
+        "youtube" : "https://www.linkedin.com/in/adedayodaramola/"
         }
     },
     {
