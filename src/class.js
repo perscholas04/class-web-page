@@ -18,7 +18,7 @@ export const data = [
     "Role" : "Student",
     "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/dayo.jpeg",
     "link" :  {
-        "facebook" : "",
+        "facebook" : "https://www.linkedin.com/in/adedayodaramola/",
         "twitter" : "",
         "github" : "",
         "youtube" : ""
