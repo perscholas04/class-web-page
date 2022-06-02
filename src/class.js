@@ -184,7 +184,7 @@ export const data = [
         "Name" : "Kayla Mejire",
         "Section" : "2022-04-RTT",
         "Role" : "Instructor",
-        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
+        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/kayla.png",
         "link" :  {
             "facebook" : "",
             "twitter" : "",
@@ -196,7 +196,7 @@ export const data = [
         "Name" : "Jose Santos",
         "Section" : "2022-04-RTT",
         "Role" : "Student",
-        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
+        "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/jose.png",
         "link" :  {
             "facebook" : "",
             "twitter" : "",
