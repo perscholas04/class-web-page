@@ -28,7 +28,7 @@ export const data = [
     "Name" : "Ananya Das",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/ana1.png",
+    "pic" : "https://github.com/perscholas04/class-web-page/blob/main/src/image/ana1.png",
     "link" :  {
         "facebook" : "https://www.facebook.com/ananya.das.560/", 
         "twitter" : "",
@@ -148,7 +148,7 @@ export const data = [
     "Name" : "Jamshaid Saleem",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/jimmy.png",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/jimmy.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
@@ -172,7 +172,7 @@ export const data = [
     "Name" : "Anusha Vemuri",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/image/anusha.png",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/anusha.png",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
