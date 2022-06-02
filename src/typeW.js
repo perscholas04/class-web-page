@@ -14,10 +14,11 @@ return(
         startDelay={2000}
         cursorColor="#3F3D56"
         multiText={[
-          'This page includes Authentication configured through AWS Cognito',
-          'It utilizes an AWS S3 storage bucket to maintain the User Database',
-          'If that isnt enough AWS we also took advantage of AWS S3 enabling us to host our site server free',
-          'We have AWS IAM roles in place allowing us to configure AWS Amplify as a simple component wrapper',
+          'What happens when the 2 best Instructors in the world get together?',
+          'Class graduation rate ...... 100%',
+          'AWS Cloud Practitioner Certification results... 100% Pass, 0 Failed',
+          'Thank you Kayla and Jose!',
+          'Congratulations Per Scholas Cycle 04!'
           
         ]}
         multiTextDelay={1000}
