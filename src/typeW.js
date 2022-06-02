@@ -11,7 +11,6 @@ return(
         cursorColor="#3F3D56"
         strings={[
           'What happens when the 2 best Instructors in the world get together?',
-          'Class graduation rate ...... 100%',
           'AWS Cloud Practitioner Certification results... 100% Pass, 0 Failed',
           'Thank you Kayla and Jose!',
           'Congratulations Per Scholas Cycle 04!'
