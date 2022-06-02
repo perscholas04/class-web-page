@@ -16,7 +16,7 @@ export const data = [
     "Name" : "Adedayo Daramola",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "https://cdn.shopify.com/s/files/1/0315/9562/6555/products/product-image-994120667_1024x1024.jpg?v=1581810492",
+    "pic" : "https://raw.githubusercontent.com/perscholas04/class-web-page/main/src/image/dayo.jpeg",
     "link" :  {
         "facebook" : "",
         "twitter" : "",
